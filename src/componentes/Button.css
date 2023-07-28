@@ -10,3 +10,8 @@
     font-size: large;
     text-decoration-color: white;
     }
+    text{
+        align-items: center;
+        padding: 10px;
+        margin: 15px;
+    }
