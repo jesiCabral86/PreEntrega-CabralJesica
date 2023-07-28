@@ -9,6 +9,7 @@ export function NavBar (){
         <Button text="Sillas"></Button>
         <Button text="Sillones"></Button>
         <Button text="Mesas"></Button>
+        <img src="./img/logoCart.png"></img>
         <CartWidget items={9}></CartWidget>
     </nav>
     );

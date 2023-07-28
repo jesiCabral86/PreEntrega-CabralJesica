@@ -1,0 +1,12 @@
+.boton{
+    height: 15px;
+    width: 50px;
+    padding: 50px;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    border-color: red;
+    font-size: large;
+    text-decoration-color: white;
+    }
