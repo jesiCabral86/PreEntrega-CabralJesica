@@ -1,14 +1,14 @@
 import "./NavBar.css";
-import './CartWidget';
-import './Button';
+import {CartWidget} from './CartWidget.jsx';
+import {Button} from './Button';
 
 export function NavBar (){
     return(
         <nav className="navbar">
         <img src="./img/logoMuebles.png"></img>
-        <button text="Sillas"></button>
-        <button text="Sillones"></button>
-        <button text="Mesas"></button>
+        <Button text="Sillas"></Button>
+        <Button text="Sillones"></Button>
+        <Button text="Mesas"></Button>
         <CartWidget items={9}></CartWidget>
     </nav>
     );
