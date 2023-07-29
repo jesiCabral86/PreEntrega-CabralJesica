@@ -1,17 +1,11 @@
 .boton{
-    height: 15px;
-    width: 50px;
-    padding: 50px;
-    margin: 50px;
+    height: 60px;
+    width: 90px;
+    padding: 15px;
+    margin: 10px;
     align-items: center;
-    justify-content: center;
     background-color: pink;
     border-color: red;
     font-size: large;
-    text-decoration-color: white;
-    }
-    text{
-        align-items: center;
-        padding: 10px;
-        margin: 15px;
-    }
+    color: white;
+    } 
