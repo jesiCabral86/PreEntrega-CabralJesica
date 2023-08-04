@@ -1,4 +1,6 @@
-export function CartWidget ({ items }){
-    return <div>{items}</div>;
+export function CartWidget ({ items }) {
+    return (
+    <div>{items}</div>
+    );
 }
 
